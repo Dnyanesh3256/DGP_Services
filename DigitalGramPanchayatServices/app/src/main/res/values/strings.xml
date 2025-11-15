@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Digital Gram-Panchayat Services</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user">User Application</string>
+    <string name="welcome">Welcome to Digital Gram Panchayat Services</string>
+    <string name="DGP">DGP Services</string>
+    <string name="akaya">font/akaya</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_grampanchayat1">मार्डी हे गाव महाराष्ट्रातील मराठवाड्यातील मधील जालना जिल्ह्यात स्थित आहे.मार्डी गावाचा तालुका अंबड असून हे गाव जालना जील्ह्यापासून 30 KM अंतरावर आहे.</string>
+
+    <string name="about_grampanchayat2">तालुका अंबड पासून १० किमी तर राज्याची राजधानी मुंबईपासून ३६५ किमी अंतरावर आहे.</string>
+
+    <string name="about_grampanchayat3">मार्डी गावाचा पिनकोड ४३१२०४ असून गावचे पोस्ट ऑफिस अंबड येथे आहे.</string>
+
+    <string name="about_grampanchayat4">गावाच्या शेजारी पारनेर(३किमी), नंदी (५किमी), अंबड(५किमी) आणि शिरणेर(५किमी) ही गावं असून जालना, पैठण, परतूर आणि छ.संभाजीनगर हे शहरं आहेत.</string>
+
+    <string name="about_grampanchayat5">सन २०११ च्या जनगणनेनुसार मार्डी गावची लोकसंख्या ही १३४८ होती ज्यामध्ये ४२.९% महिला आणि ५५% पुरुष आहेत.</string>
+
+    <string name="about_grampanchayat6">गावाच्या सरपंच श्रीमती गंगासागर एकनाथ भोजने या आहेत.</string>
+
+    <string name="about_grampanchayat7">महाराष्ट्रातील जालना जिल्ह्यातील अंबड तालुक्यात मार्डी हे मध्यम आकाराचे गाव असून एकूण २८९ कुटुंबे राहतात. २०११ च्या जनगणनेनुसार मार्डी गावाची लोकसंख्या १३४८ असून त्यापैकी ६७५ पुरुष तर ६७३ महिला आहेत.</string>
+
+    <string name="about_grampanchayat8">महाराष्ट्राच्या तुलनेत मार्डी गावात साक्षरतेचे प्रमाण कमी आहे. 2011 मध्ये, मार्डी गावाचा साक्षरता दर महाराष्ट्राच्या 82.34% च्या तुलनेत 70.15% होता. मार्डीमध्ये पुरुष साक्षरता 78.61% आहे तर महिला साक्षरता दर 61.52% आहे.</string>
+</resources>
