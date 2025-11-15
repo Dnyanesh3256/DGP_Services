@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_video"
+        android:title="Speech Videos"
+        android:icon="@drawable/ic_baseline_videocam_24"/>
+
+    <item android:id="@+id/navigation_ebook"
+        android:title="Government-GR"
+        android:icon="@drawable/ic_gr"/>
+
+    <item android:id="@+id/navigation_website"
+        android:title="Websites"
+        android:icon="@drawable/ic_website"/>
+
+    <item android:id="@+id/navigation_share"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+    <item android:id="@+id/navigation_rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_baseline_star_rate_24"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Developer"
+        android:icon="@drawable/ic_develper"/>
+
+
+</menu>

@@ -1,0 +1,3 @@
+com.example.digitalgram_panchayatservices.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
