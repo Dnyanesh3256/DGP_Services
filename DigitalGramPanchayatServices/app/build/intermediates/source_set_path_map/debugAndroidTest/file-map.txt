@@ -1,0 +1,9 @@
+com.example.digitalgram_panchayatservices.test.app-core-1.5.0-0 C:\Users\Lenovo\.gradle\caches\transforms-3\0a71948f70ec9b39f8e6852ca39ff9ae\transformed\core-1.5.0\res
+com.example.digitalgram_panchayatservices.test.app-annotation-experimental-1.3.0-1 C:\Users\Lenovo\.gradle\caches\transforms-3\6850daaf5bebb20840eb6243d447f2f5\transformed\annotation-experimental-1.3.0\res
+com.example.digitalgram_panchayatservices.test.app-androidTest-2 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\build\generated\res\resValues\androidTest\debug
+com.example.digitalgram_panchayatservices.test.app-androidTest-3 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\build\generated\res\rs\androidTest\debug
+com.example.digitalgram_panchayatservices.test.app-mergeDebugAndroidTestResources-4 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.digitalgram_panchayatservices.test.app-mergeDebugAndroidTestResources-5 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.digitalgram_panchayatservices.test.app-merged_res-6 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\build\intermediates\merged_res\debugAndroidTest
+com.example.digitalgram_panchayatservices.test.app-androidTest-7 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\src\androidTest\res
+com.example.digitalgram_panchayatservices.test.app-androidTestDebug-8 C:\Users\Lenovo\AndroidStudioProjects\DigitalGramPanchayatServices\app\src\androidTestDebug\res

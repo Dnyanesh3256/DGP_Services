@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_latobold.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/latobold.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_krushnajit.jpeg.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/krushnajit.jpeg"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-ldpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-ldpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xhdpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xhdpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_fragment_home.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsbolditalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsbolditalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/anim_slide_in_left.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_shimmer_for_governmentgr.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/shimmer_for_governmentgr.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_tupe.jpeg.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/tupe.jpeg"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_avatar_profile_male.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/avatar_profile_male.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-mdpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-mdpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_akaya.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/akaya.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_cv_shape.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/cv_shape.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_website.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_website.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_notice_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_notice_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-anydpi-v24_ic_baseline_about_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-anydpi-v24/ic_baseline_about_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_latolight.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/latolight.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_pdf.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_pdf.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-anydpi-v24_ic_develper.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-anydpi-v24/ic_develper.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxxhdpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxxhdpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_akaya_telivigala.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/akaya_telivigala.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsblackitalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsblackitalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsbold.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsbold.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_gp5.JPG.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/gp5.JPG"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxhdpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxhdpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_fragment_member.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/fragment_member.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-ldpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-ldpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/anim_slide_in_right.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsextrabold.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsextrabold.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_location.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_gallery_image.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/gallery_image.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_gp2.JPG.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/gp2.JPG"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxxhdpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxxhdpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_latoregular.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/latoregular.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_governmentgr.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_governmentgr.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsblack.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsblack.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinssemibold.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinssemibold.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_faculty_item_layout.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/faculty_item_layout.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsregular.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsregular.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsmediumitalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsmediumitalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_logo.jpeg.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_app_logo.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsitalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsitalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-mdpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-mdpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_down.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_down.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_governmentgr_item_layout.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/governmentgr_item_layout.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_gr.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_gr.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/anim_fadein.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/anim/fadein.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_no_data_found.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/no_data_found.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/anim_blink.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/anim/blink.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xhdpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xhdpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_label.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_label.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-hdpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-hdpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_newsfeed_item_layout.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/menu_navigation_drawer.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_drawer_header.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_fragment_about.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_theme.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxhdpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxhdpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xhdpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xhdpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_videocam_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_videocam_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_gp3.JPG.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/gp3.JPG"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsmedium.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsmedium.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_kartik.jpg.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/kartik.jpg"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_speech_video.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_speech_video.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_splash.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/anim_bounce.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/anim/bounce.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-ldpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-ldpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-hdpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-hdpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_label_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_label_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_full_image_view.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_full_image_view.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxxhdpi_ic_baseline_about_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxxhdpi/ic_baseline_about_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinssemibolditalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinssemibolditalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_star_rate_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_developer.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_developer.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/font_poppinsextrabolditalic.ttf.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/font/poppinsextrabolditalic.ttf"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/menu_bottom_nav.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-mdpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-mdpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_gp4.JPG.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/gp4.JPG"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_ic_baseline_gallery_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/ic_baseline_gallery_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-hdpi_ic_develper.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-hdpi/ic_develper.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_activity_rateus.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/activity_rateus.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/xml_backup_rules.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_gp1.JPG.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/gp1.JPG"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-xxhdpi_ic_baseline_member_24.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-xxhdpi/ic_baseline_member_24.png"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable_mohan.jpeg.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable/mohan.jpeg"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-anydpi-v24_ic_baseline_member_24.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-pngs-41:/drawable-anydpi-v24/ic_baseline_member_24.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/layout_fragment_notice.xml.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/layout/fragment_notice.xml"
+    },
+    {
+        "merged": "com.example.digitalgram_panchayatservices.app-merged_res-46:/drawable-v24_mapimage.png.flat",
+        "source": "com.example.digitalgram_panchayatservices.app-main-48:/drawable-v24/mapimage.png"
+    }
+]
