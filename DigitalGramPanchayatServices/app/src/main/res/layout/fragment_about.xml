@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.about.AboutFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/gp1"
+            android:id="@+id/college_image"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/black"
+            android:layout_marginTop="@dimen/text_margin"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/text_margin"
+                android:background="@drawable/cv_shape">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_location"
+                    android:layout_marginTop="@dimen/text_margin"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/about_grampanchayat7"
+                    android:layout_margin="@dimen/text_margin"
+                    android:layout_marginHorizontal="@dimen/text_margin"
+                    android:textSize="15dp"
+                    android:justificationMode="inter_word"
+                    android:layout_gravity="center_vertical|end"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/poppinssemibolditalic"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/black"
+            android:layout_marginTop="@dimen/text_margin"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/cv_shape"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/text_margin"
+                android:background="@drawable/cv_shape">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_label"
+                    android:layout_marginTop="@dimen/text_margin"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/about_grampanchayat8"
+                    android:layout_margin="@dimen/text_margin"
+                    android:layout_marginHorizontal="@dimen/text_margin"
+                    android:textSize="15dp"
+                    android:justificationMode="inter_word"
+                    android:layout_gravity="center_vertical|end"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/poppinssemibolditalic"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/black"
+            android:layout_marginTop="@dimen/text_margin"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/black"
+            android:layout_marginTop="@dimen/text_margin"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/c2_50"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="1dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="ग्रापंचायत योजना २०२३"
+            android:textSize="@dimen/title_size"
+            android:gravity="center"
+            android:textColor="@color/c1_700"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:background="@color/c2_50"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="- योजनेच्या अधिक माहितीसाठी योजनेच्या नावावर क्लिक करा !"
+            android:layout_marginLeft="20dp"
+            android:textSize="15dp"
+            android:textColor="@color/textColor"
+            android:fontFamily="sans-serif-condensed-medium"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/lightGray"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/text_margin">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_label"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/y1"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:text="राष्ट्रीय ग्रामीण पेयजल कार्यक्रम योजना (NRDWP)"
+                android:textSize="@dimen/text_size"
+                android:textColor="@color/textColor"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-condensed-medium"/>
+
+        </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/lightGray"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/text_margin">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_label"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/y2"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:text="प्रधान मंत्री आवास योजना-ग्रामीण (PMAY-G)"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="sans-serif-condensed-medium"/>
+
+        </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/lightGray"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/text_margin">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_label"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/y3"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:text="दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना (DDUGKY)"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="sans-serif-condensed-medium"/>
+
+        </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="@color/lightGray"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/text_margin">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_label"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/y4"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:text="संजय गांधी निराधार अनुदान योजना"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="sans-serif-condensed-medium"/>
+
+        </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

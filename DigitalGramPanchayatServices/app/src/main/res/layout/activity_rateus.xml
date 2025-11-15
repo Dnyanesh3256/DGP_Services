@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginVertical="8dp"
+        android:background="@color/black"
+        android:layout_marginTop="@dimen/text_margin"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How would you rate our app?"
+        android:textSize="@dimen/title_size"
+        android:gravity="center_horizontal"
+        android:background="@color/c2_50"
+        android:textColor="@color/c1_700"
+        android:fontFamily="@font/akaya"
+        android:textStyle="bold"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginVertical="8dp"
+        android:background="@color/black"
+        android:layout_marginTop="@dimen/text_margin"/>
+
+    <RatingBar
+        android:id="@+id/rating_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:stepSize="1"
+        android:numStars="5"
+        android:outlineSpotShadowColor="@color/c1_700"
+        android:outlineAmbientShadowColor="@color/c1_200"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/submit_button"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="Submit Ratings"
+            android:fontFamily="@font/akaya"
+            android:layout_gravity="center"
+            android:textColor="@color/c1_700"
+            android:backgroundTint="@color/c2_50"
+            android:textStyle="italic"
+            android:layout_marginLeft="40dp"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/cancel_button"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/c2_50"
+            android:fontFamily="@font/akaya"
+            android:text="Cancel"
+            android:textColor="@color/c1_700"
+            android:textStyle="italic"
+            android:layout_marginLeft="50dp"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginVertical="8dp"
+        android:background="@color/black"
+        android:layout_marginTop="@dimen/text_margin"/>
+
+</LinearLayout>
